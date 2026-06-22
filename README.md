@@ -85,6 +85,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/pranayyadav998/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/pranayyadav998/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Math
@@ -126,6 +127,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,5 +140,6 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
