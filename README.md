@@ -58,6 +58,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/pranayyadav998/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/pranayyadav998/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/pranayyadav998/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
