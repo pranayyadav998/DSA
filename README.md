@@ -59,6 +59,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/pranayyadav998/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranayyadav998/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/pranayyadav998/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
