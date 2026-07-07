@@ -122,16 +122,19 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0100-same-tree](https://github.com/pranayyadav998/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranayyadav998/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pranayyadav998/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranayyadav998/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +210,8 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pranayyadav998/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranayyadav998/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
