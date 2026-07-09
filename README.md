@@ -47,6 +47,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0485-max-consecutive-ones](https://github.com/pranayyadav998/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/pranayyadav998/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/pranayyadav998/DSA/tree/main/1840-maximum-building-height/) | Hard |
@@ -88,6 +89,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/pranayyadav998/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/pranayyadav998/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/pranayyadav998/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
