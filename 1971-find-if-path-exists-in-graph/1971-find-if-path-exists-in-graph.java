@@ -1,42 +1,48 @@
-class Solution {
-    public boolean validPath(int n, int[][] edges, int source, int destination) {
-        
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+import java.util.*;
 
-        // Creating empty lists for every node
+class Solution {
+    private boolean undirected = true;
+    public ArrayList<ArrayList<Integer>> adj;
+
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+
+        adj = new ArrayList<>();
+
         for(int i = 0; i < n; i++){
-            adj.add(new ArrayList<>());
+            ArrayList<Integer> list = new ArrayList<>();
+            adj.add(list);
         }
 
-        // Converting edges array into graph
-        for(int i = 0; i < edges.length; i++){
+        // Add edges
+        for(int[] edge : edges){
+            addEdge(edge[0], edge[1]);
+        }
 
-            int u = edges[i][0];
-            int v = edges[i][1];
+        return bfsCore(source, destination);
+    }
 
-            adj.get(u).add(v);
+    public void addEdge(int u, int v){
+        adj.get(u).add(v);
+
+        if(undirected){
             adj.get(v).add(u);
         }
-        
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        
-        boolean[] visited = new boolean[n];
+    }
+
+    private void bfs(int source, boolean[] visited){
+
         visited[source] = true;
 
-        int node;
-        
-        while(!q.isEmpty()){
-            node = q.peek();
-            q.remove();
+        Queue<Integer> q = new LinkedList<>();
+        q.add(source);
 
-            if(node == destination){
-                return true;  
-            }
-            
-            for(int j=0;j<adj.get(node).size();j++){
-                
-                int neighbour = adj.get(node).get(j);
+        while(!q.isEmpty()){
+
+            int top = q.poll();
+
+            List<Integer> neighbours = adj.get(top);
+
+            for(int neighbour : neighbours){
 
                 if(!visited[neighbour]){
                     visited[neighbour] = true;
@@ -44,6 +50,15 @@ class Solution {
                 }
             }
         }
-        return false;
+    }
+
+    public boolean bfsCore(int source, int destination){
+
+        boolean[] visited = new boolean[adj.size()];
+        Arrays.fill(visited, false);
+
+        bfs(source, visited);
+
+        return visited[destination];
     }
 }
