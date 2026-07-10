@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private boolean undirected = true;
     public ArrayList<ArrayList<Integer>> adj;
