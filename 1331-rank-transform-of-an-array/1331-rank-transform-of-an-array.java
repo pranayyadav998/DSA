@@ -11,6 +11,7 @@ class Solution {
                 rank++;
             }
         }
+        System.out.print(map);
         int[] ans = new int[arr.length];
 
         for(int i=0;i<arr.length;i++){
