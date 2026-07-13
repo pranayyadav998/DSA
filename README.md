@@ -111,6 +111,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranayyadav998/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -193,6 +194,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
