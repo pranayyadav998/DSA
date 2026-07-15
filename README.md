@@ -242,6 +242,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/pranayyadav998/DSA/tree/main/0176-second-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/pranayyadav998/DSA/tree/main/0182-duplicate-emails/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
