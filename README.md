@@ -119,6 +119,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranayyadav998/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/pranayyadav998/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -241,4 +242,8 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/pranayyadav998/DSA/tree/main/0176-second-highest-salary/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
