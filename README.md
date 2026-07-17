@@ -137,6 +137,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pranayyadav998/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranayyadav998/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -144,11 +145,13 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pranayyadav998/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranayyadav998/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Heap (Priority Queue)
@@ -237,6 +240,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Database
 | Problem Name | Difficulty |
