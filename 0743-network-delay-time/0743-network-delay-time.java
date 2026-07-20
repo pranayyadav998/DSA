@@ -1,75 +1,43 @@
 class Solution {
-
-    class Pair implements Comparable<Pair> {
+public class Pair implements Comparable<Pair>{
         int node;
-        int time;
-
-        Pair(int node, int time) {
+        int time;// constructor
+        Pair(int node, int time){
             this.node = node;
             this.time = time;
         }
-
-        @Override
-        public int compareTo(Pair p) {
+        public int compareTo(Pair p){
             return this.time - p.time;
         }
     }
-
-    public int networkDelayTime(int[][] times, int n, int k) {
-
-        List<List<Pair>> adj = new ArrayList<>();
-
-        for (int i = 0; i <= n; i++) {
-            adj.add(new ArrayList<>());
-        }
-
-        for (int[] edge : times) {
-            int u = edge[0];
-            int v = edge[1];
-            int wt = edge[2];
-
-            adj.get(u).add(new Pair(v, wt));
-        }
-
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-
+    public int networkDelayTime(int[][] times, int n, int src) {
+        List<List<Pair>> adj = new ArrayList<>();// <=n 1-Based indexing
+        for(int i=0;i<=n;i++) adj.add(new ArrayList<Pair>());// Populate
+        for(int i=0;i<times.length;i++){
+            int u = times[i][0], v = times[i][1], dist = times[i][2];
+            adj.get(u).add(new Pair(v, dist));
+        }// Dijkstra Algo.
+        int[] ans = new int[n+1];
+        Arrays.fill(ans,Integer.MAX_VALUE);
+        ans[src] = 0;
         PriorityQueue<Pair> pq = new PriorityQueue<>();
-
-        dist[k] = 0;
-        pq.offer(new Pair(k, 0));
-
-        while (!pq.isEmpty()) {
-
-            Pair curr = pq.poll();
-
-            int node = curr.node;
-            int currTime = curr.time;
-
-            for (Pair adjNode : adj.get(node)) {
-
-                int nextNode = adjNode.node;
-                int edgeWeight = adjNode.time;
-
-                if (currTime + edgeWeight < dist[nextNode]) {
-
-                    dist[nextNode] = currTime + edgeWeight;
-                    pq.offer(new Pair(nextNode, dist[nextNode]));
+        pq.add(new Pair(src, 0));
+        while(!pq.isEmpty()){
+            Pair top = pq.poll();
+            int node = top.node, time = top.time;
+            for(Pair p : adj.get(node)){
+                int total_time = top.time + p.time;
+                if(total_time < ans[p.node]){
+                    ans[p.node] = total_time;
+                    pq.add(new Pair(p.node, total_time));
                 }
             }
         }
-
-        int ans = 0;
-
-        for (int i = 1; i <= n; i++) {
-
-            if (dist[i] == Integer.MAX_VALUE) {
-                return -1;
-            }
-
-            ans = Math.max(ans, dist[i]);
-        }
-
-        return ans;
+        int max = -1;
+        for(int i=1;i<=n;i++){
+            if(ans[i] == Integer.MAX_VALUE) return -1;
+            max = Math.max(ans[i], max);
+        } 
+        return max;
     }
 }
