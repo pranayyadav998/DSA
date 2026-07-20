@@ -1,22 +1,27 @@
 class Solution {
 public class Pair implements Comparable<Pair>{
         int node;
-        int time;// constructor
+        int time;
+        // constructor
         Pair(int node, int time){
             this.node = node;
             this.time = time;
         }
         public int compareTo(Pair p){
+            if(this.time == p.time) return this.node - p.node;
             return this.time - p.time;
         }
     }
     public int networkDelayTime(int[][] times, int n, int src) {
-        List<List<Pair>> adj = new ArrayList<>();// <=n 1-Based indexing
-        for(int i=0;i<=n;i++) adj.add(new ArrayList<Pair>());// Populate
+        List<List<Pair>> adj = new ArrayList<>();
+        // <=n 1-Based indexing
+        for(int i=0;i<=n;i++) adj.add(new ArrayList<Pair>());
+        // Populate
         for(int i=0;i<times.length;i++){
             int u = times[i][0], v = times[i][1], dist = times[i][2];
             adj.get(u).add(new Pair(v, dist));
-        }// Dijkstra Algo.
+        }
+        // Dijkstra Algo.
         int[] ans = new int[n+1];
         Arrays.fill(ans,Integer.MAX_VALUE);
         ans[src] = 0;
