@@ -51,6 +51,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/pranayyadav998/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/pranayyadav998/DSA/tree/main/1840-maximum-building-height/) | Hard |
@@ -102,6 +103,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/pranayyadav998/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -151,6 +154,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/pranayyadav998/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -164,6 +168,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/pranayyadav998/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +253,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/pranayyadav998/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -259,4 +265,8 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranayyadav998/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
