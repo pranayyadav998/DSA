@@ -30,7 +30,7 @@ class Solution {
         while(!pq.isEmpty()){
             Triplet top = pq.poll();
             int row = top.row, col = top.col, effort = top.effort;
-            if(row == m-1 && col == n-1) break;
+            // if(row == m-1 && col == n-1) break;
             for(int i=0;i<=3;i++){
                 int newRow = row + r[i];
                 int newCol = col + c[i];
