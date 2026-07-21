@@ -42,6 +42,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -68,6 +69,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -268,5 +270,6 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
