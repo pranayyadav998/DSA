@@ -9,7 +9,7 @@ class Solution {
         }
         if(k % 2 == 1){
             Arrays.sort(nums);
-            nums[0] = nums[0] * -1 * 1 ;
+            nums[0] = nums[0] * -1;
         }
         int sum = 0;
         for(int s : nums){
