@@ -49,6 +49,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pranayyadav998/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -82,6 +83,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranayyadav998/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Linked List
@@ -201,6 +203,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
