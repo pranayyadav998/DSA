@@ -49,6 +49,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pranayyadav998/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -84,6 +85,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/pranayyadav998/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -97,6 +99,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -205,6 +208,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
