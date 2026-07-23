@@ -42,6 +42,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -210,6 +211,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
