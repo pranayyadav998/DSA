@@ -50,6 +50,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pranayyadav998/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -134,6 +135,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranayyadav998/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/pranayyadav998/DSA/tree/main/1840-maximum-building-height/) | Hard |
@@ -216,6 +218,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
