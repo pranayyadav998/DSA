@@ -52,6 +52,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0485-max-consecutive-ones](https://github.com/pranayyadav998/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranayyadav998/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -106,6 +107,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -121,6 +123,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranayyadav998/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranayyadav998/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String
@@ -189,6 +192,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/pranayyadav998/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -226,6 +230,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -270,6 +275,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranayyadav998/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
