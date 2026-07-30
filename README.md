@@ -82,6 +82,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/pranayyadav998/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -145,6 +146,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranayyadav998/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -311,4 +313,12 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
