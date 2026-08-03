@@ -333,4 +333,12 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/pranayyadav998/DSA/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
