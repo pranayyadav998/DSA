@@ -184,6 +184,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/pranayyadav998/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/pranayyadav998/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0743-network-delay-time](https://github.com/pranayyadav998/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranayyadav998/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/pranayyadav998/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
