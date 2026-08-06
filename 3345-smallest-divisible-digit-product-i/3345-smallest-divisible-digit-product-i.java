@@ -1,6 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        while(n != 0){
+        while(true){ // --> This loop will always run
             int pro = 1;
             int num = n;
             while(num > 0){
@@ -11,6 +11,5 @@ class Solution {
             if(pro % t == 0) return n;
             n++;
         }
-        return 01;
     }
 }
