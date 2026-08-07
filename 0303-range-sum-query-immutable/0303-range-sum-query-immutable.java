@@ -1,7 +1,7 @@
 class NumArray {
     int[] arr;
     public NumArray(int[] nums) {
-        arr = nums; // Shallow copy
+        arr = Arrays.copyOf(nums, nums.length); // Shallow copy
         for(int i=1;i<nums.length;i++){
             arr[i] = arr[i-1] + arr[i];
         }
