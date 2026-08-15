@@ -129,6 +129,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Search
@@ -147,6 +148,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranayyadav998/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranayyadav998/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -387,4 +389,8 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
