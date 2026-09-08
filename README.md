@@ -166,6 +166,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/pranayyadav998/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
