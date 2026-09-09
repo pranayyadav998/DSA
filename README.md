@@ -185,6 +185,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranayyadav998/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3870-count-commas-in-range](https://github.com/pranayyadav998/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranayyadav998/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
