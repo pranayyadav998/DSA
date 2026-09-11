@@ -93,6 +93,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -124,6 +125,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/pranayyadav998/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -154,6 +156,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0151-reverse-words-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pranayyadav998/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
