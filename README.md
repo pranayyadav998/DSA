@@ -152,6 +152,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranayyadav998/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -171,6 +172,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pranayyadav998/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
@@ -250,6 +252,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranayyadav998/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
