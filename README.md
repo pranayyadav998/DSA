@@ -154,6 +154,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranayyadav998/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/pranayyadav998/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -175,6 +176,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -200,6 +202,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/pranayyadav998/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/pranayyadav998/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -311,6 +314,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
