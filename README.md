@@ -161,6 +161,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pranayyadav998/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranayyadav998/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
@@ -259,6 +260,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranayyadav998/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -289,6 +291,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -317,6 +320,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/pranayyadav998/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
+| [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/pranayyadav998/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
