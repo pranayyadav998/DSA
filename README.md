@@ -80,6 +80,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranayyadav998/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranayyadav998/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranayyadav998/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3731-find-missing-elements](https://github.com/pranayyadav998/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -193,6 +194,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranayyadav998/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranayyadav998/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranayyadav998/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranayyadav998/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
