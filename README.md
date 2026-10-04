@@ -101,6 +101,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranayyadav998/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/pranayyadav998/DSA/tree/main/0877-stone-game/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/pranayyadav998/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -111,6 +112,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -142,6 +144,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0020-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -172,6 +175,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -440,6 +444,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
