@@ -145,6 +145,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0032-longest-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -177,6 +178,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [0856-score-of-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranayyadav998/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -445,6 +447,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0020-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
