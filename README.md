@@ -78,6 +78,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1929-concatenation-of-array](https://github.com/pranayyadav998/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranayyadav998/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranayyadav998/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pranayyadav998/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranayyadav998/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranayyadav998/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranayyadav998/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -360,6 +361,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pranayyadav998/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranayyadav998/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranayyadav998/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranayyadav998/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
