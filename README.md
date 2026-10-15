@@ -88,6 +88,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranayyadav998/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/pranayyadav998/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [4062-transform-array-using-pair-operations](https://github.com/pranayyadav998/DSA/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,4 +457,8 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranayyadav998/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranayyadav998/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/pranayyadav998/DSA/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 <!---LeetCode Topics End-->
