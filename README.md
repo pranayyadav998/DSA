@@ -47,6 +47,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranayyadav998/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/pranayyadav998/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/pranayyadav998/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pranayyadav998/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -282,6 +283,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranayyadav998/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranayyadav998/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/pranayyadav998/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -313,6 +315,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/pranayyadav998/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pranayyadav998/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/pranayyadav998/DSA/tree/main/0414-third-maximum-number/) | Easy |
