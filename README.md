@@ -42,6 +42,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0001-two-sum](https://github.com/pranayyadav998/DSA/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranayyadav998/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/pranayyadav998/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/pranayyadav998/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
@@ -97,6 +98,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/pranayyadav998/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/pranayyadav998/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/pranayyadav998/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pranayyadav998/DSA/tree/main/0064-minimum-path-sum/) | Medium |
@@ -355,6 +357,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pranayyadav998/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
