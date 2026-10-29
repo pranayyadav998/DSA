@@ -407,6 +407,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/pranayyadav998/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/pranayyadav998/DSA/tree/main/0182-duplicate-emails/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/pranayyadav998/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
