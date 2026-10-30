@@ -88,6 +88,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranayyadav998/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranayyadav998/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3731-find-missing-elements](https://github.com/pranayyadav998/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -225,6 +226,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranayyadav998/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/pranayyadav998/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranayyadav998/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -302,6 +304,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranayyadav998/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranayyadav998/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranayyadav998/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3731-find-missing-elements](https://github.com/pranayyadav998/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -348,6 +351,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1189-maximum-number-of-balloons](https://github.com/pranayyadav998/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
