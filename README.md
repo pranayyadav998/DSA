@@ -189,6 +189,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0345-reverse-vowels-of-a-string](https://github.com/pranayyadav998/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
@@ -212,6 +213,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pranayyadav998/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranayyadav998/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranayyadav998/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranayyadav998/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranayyadav998/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -238,6 +240,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranayyadav998/DSA/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/pranayyadav998/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/pranayyadav998/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
