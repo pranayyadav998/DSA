@@ -90,6 +90,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3731-find-missing-elements](https://github.com/pranayyadav998/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranayyadav998/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranayyadav998/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranayyadav998/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranayyadav998/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -230,6 +231,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranayyadav998/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/pranayyadav998/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranayyadav998/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranayyadav998/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pranayyadav998/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranayyadav998/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Combinatorics
