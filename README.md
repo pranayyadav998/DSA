@@ -70,6 +70,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranayyadav998/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranayyadav998/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pranayyadav998/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -149,6 +150,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranayyadav998/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -173,6 +175,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0300-longest-increasing-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranayyadav998/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranayyadav998/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/pranayyadav998/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranayyadav998/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## String
@@ -343,6 +346,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pranayyadav998/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/pranayyadav998/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranayyadav998/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranayyadav998/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranayyadav998/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/pranayyadav998/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pranayyadav998/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
