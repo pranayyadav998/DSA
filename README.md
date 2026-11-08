@@ -125,6 +125,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0055-jump-game](https://github.com/pranayyadav998/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/pranayyadav998/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/pranayyadav998/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranayyadav998/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -149,6 +150,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/pranayyadav998/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/pranayyadav998/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/pranayyadav998/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pranayyadav998/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranayyadav998/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranayyadav998/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -198,6 +200,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/pranayyadav998/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/pranayyadav998/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/pranayyadav998/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranayyadav998/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
