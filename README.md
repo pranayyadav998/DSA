@@ -198,6 +198,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0389-find-the-difference](https://github.com/pranayyadav998/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/pranayyadav998/DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/pranayyadav998/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pranayyadav998/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/pranayyadav998/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
