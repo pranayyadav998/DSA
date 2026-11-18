@@ -2,4 +2,4 @@
 Select email
 from Person
 Group by email
-Having count(*) > 1;
+Having Count(*) > 1;
