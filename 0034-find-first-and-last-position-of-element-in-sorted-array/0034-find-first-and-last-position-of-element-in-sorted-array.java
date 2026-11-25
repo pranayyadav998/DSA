@@ -1,51 +1,48 @@
+
 class Solution {
-    public int[] searchRange(int[] arr, int target) {
-        int[] ans = {-1,-1};
+    public int[] searchRange(int[] nums, int target) {
 
-        int lo = 0;
-        int hi = arr.length-1;
-        boolean flag = false;
-        while(lo<=hi){
-            int mid = lo + (hi-lo)/2;
-            if(arr[mid] == target){
-                flag = true;
-                break;
-            }else if(arr[mid] > target){
-                hi = mid - 1;
-            }else if(arr[mid] < target){
-                lo = mid + 1;
+        int first = -1;
+        int last = -1;
+
+        // First Binary Search: Find first occurrence
+        int low = 0;
+        int high = nums.length - 1;
+
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if(nums[mid] == target) {
+                first = mid;
+                high = mid - 1;
+            }
+            else if(nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
-        if(flag == false) return ans;
 
-        lo = 0;
-        hi = arr.length-1;
-        int lb = arr.length;
-        while(lo<=hi){
-            int mid = lo + (hi-lo)/2;
-            if(arr[mid] >= target){
-                lb = Math.min(lb,mid);
-                hi = mid-1;
-            }else{
-                lo = mid + 1;
+        // Second Binary Search: Find last occurrence
+        low = 0;
+        high = nums.length - 1;
+
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if(nums[mid] == target) {
+                last = mid;
+                low = mid + 1;
+            }
+            else if(nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
-        ans[0] = lb;
 
-        lo = 0;
-        hi = arr.length-1;
-        int ub = arr.length;
-        while(lo<=hi){
-            int mid = lo + (hi-lo)/2;
-            if(arr[mid] > target){
-                ub = Math.min(ub,mid);
-                hi = mid-1;
-            }else{
-                lo = mid + 1;
-            }
-        }
-        ans[1] = ub - 1;
-
-        return ans;
+        return new int[]{first, last};
     }
 }
