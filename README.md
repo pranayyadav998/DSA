@@ -238,6 +238,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranayyadav998/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranayyadav998/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranayyadav998/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/pranayyadav998/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranayyadav998/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranayyadav998/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranayyadav998/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -258,6 +259,7 @@ This practice helps me build consistency, improve coding interview preparation, 
 | [0412-fizz-buzz](https://github.com/pranayyadav998/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranayyadav998/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/pranayyadav998/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/pranayyadav998/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/pranayyadav998/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/pranayyadav998/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Depth-First Search
